@@ -31,9 +31,9 @@
 
 ## Launcher parameters
 
--m – maximize
--b – borderless – works well with Gnome2 but is a bit redundant with Unity as a maximised window is borderless anyway
--T – sets the title
+* -m – maximize
+* -b – borderless – works well with Gnome2 but is a bit redundant with Unity as a maximised window is borderless anyway
+* -T – sets the title
 
 
 ## Links
