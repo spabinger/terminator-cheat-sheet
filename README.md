@@ -29,6 +29,15 @@
 
 
 
+## Navigation
+
+| Command  | Action |
+| ------------- | ------------- |
+| Alt+Up | Focus on the terminal above |
+| Alt+Dn | Focus on the terminal below |
+| Alt+Left | Focus on the terminatl left |
+| Alt+Right | Focus on the terminal right |
+
 ## Launcher parameters
 
 * -m – maximize
