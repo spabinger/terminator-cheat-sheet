@@ -83,12 +83,12 @@
 
 ## Launcher parameters
 
-* -m – maximize
-* -b – borderless – works well with Gnome2 but is a bit redundant with Unity as a maximised window is borderless anyway
-* -T – sets the title
+* -m ... maximize
+* -b ... borderless – works well with Gnome2 but is a bit redundant with Unity as a maximised window is borderless anyway
+* -T ... sets the title
 
 ## Links
-http://www.linuxnov.com/the-complete-guide-to-configure-terminator-terminal-emulator-layouts/
-http://askubuntu.com/questions/158159/how-do-i-get-terminator-to-start-up-with-my-custom-layout
-http://blog.al4.co.nz/2011/05/getting-the-most-out-of-terminator/
-https://www.cheatography.com/elpedro/cheat-sheets/terminator/pdf/
+http://www.linuxnov.com/the-complete-guide-to-configure-terminator-terminal-emulator-layouts/   <br/>
+http://askubuntu.com/questions/158159/how-do-i-get-terminator-to-start-up-with-my-custom-layout   <br/>
+http://blog.al4.co.nz/2011/05/getting-the-most-out-of-terminator/   <br/>
+https://www.cheatography.com/elpedro/cheat-sheets/terminator/pdf/   <br/>
