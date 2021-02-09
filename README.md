@@ -92,3 +92,7 @@ http://www.linuxnov.com/the-complete-guide-to-configure-terminator-terminal-emul
 http://askubuntu.com/questions/158159/how-do-i-get-terminator-to-start-up-with-my-custom-layout   <br/>
 http://blog.al4.co.nz/2011/05/getting-the-most-out-of-terminator/   <br/>
 https://www.cheatography.com/elpedro/cheat-sheets/terminator/pdf/   <br/>
+
+## Terminator Documentation
+
+https://terminator-gtk3.readthedocs.io/
