@@ -24,8 +24,8 @@
 | ------------- | ------------- |
 | Ctrl+G  | Group All  |
 | Ctrl+Shift+G | Ungroup All |
-| Ctrl+T | Group Tab | 
-| Ctrl+Shift+T | Ungroup Tab | 
+| Super+T | Group Tab | 
+| Super+Shift+T | Ungroup Tab | 
 | Alt+A | Broadcast to all terminals |
 | Alt+G | Broadcast to Grouped terminals |
 | Alt+O | Broadcast off |
@@ -79,6 +79,7 @@
 | Ctrl+Alt+X | Rename terminal title |
 | Super+1 | Insert terminal number |
 | Super+0 | Insert padded terminal number |
+| Ctrl+Shift+T | Open new tab |
 
 
 ## Launcher parameters
